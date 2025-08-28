@@ -6,8 +6,7 @@ This project is inspired by modern 3D UI/UX trends and showcases how to build sl
 ---
 ##  Live Demo
 
-This project isn’t live yet — deployment is **coming soon**.  
-Stay tuned for a full live version hosted on platforms like [Vercel]([https://vercel.com](https://metaverse-website-mocha.vercel.app/)) or Netlify.
+[Vercel]([https://vercel.com](https://metaverse-website-mocha.vercel.app/)) or Netlify.
 
 
 
