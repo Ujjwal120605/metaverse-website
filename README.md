@@ -32,15 +32,10 @@ This project is inspired by modern 3D UI/UX trends and showcases how to build sl
 
 ## 🖼️ Screenshots  
 
-### 🏠 Home Page
-![Home Page](<img width="1440" height="900" alt="Screenshot 2025-08-29 at 2 26 00 AM" src="https://github.com/user-attachments/assets/1723aa5a-1abe-41a3-9f99-3c209616cb27" />
-)  
+<img width="1440" height="900" alt="Screenshot 2025-08-29 at 2 26 00 AM" src="https://github.com/user-attachments/assets/a967c7a2-f797-4459-8ec0-1da7d791adf7" />
+<img width="1440" height="900" alt="Screenshot 2025-08-29 at 2 26 17 AM" src="https://github.com/user-attachments/assets/31335be8-9c3e-4358-aad0-71a31d125a0f" />
+<img width="1440" height="900" alt="Screenshot 2025-08-29 at 2 26 09 AM" src="https://github.com/user-attachments/assets/bbe2fdd6-6a91-413b-b48f-98939e2333ac" />
 
-### 🌍 Explore Section
-![Explore Section](<img width="1440" height="900" alt="Screenshot 2025-08-29 at 2 26 09 AM" src="https://github.com/user-attachments/assets/1721b305-911e-4d2a-8559-64bb7433260b" />
-)  
-## Emplre More
-![Explore More](<img width="1440" height="900" alt="Screenshot 2025-08-29 at 2 26 17 AM" src="https://github.com/user-attachments/assets/e5607960-b0a8-4f15-93f8-f7ea59249eeb" />)
 
 
 ---
