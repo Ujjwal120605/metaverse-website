@@ -31,15 +31,18 @@ Stay tuned for a full live version hosted on platforms like [Vercel]([https://ve
 
 ---
 
-## 📸 Screenshots
+## 🖼️ Screenshots  
 
-| Landing Page | Responsive Design |
-|--------------|-------------------|
-| ![Landing Page](<img width="1440" height="900" alt="Screenshot 2025-08-29 at 2 26 00 AM" src="https://github.com/user-attachments/assets/65659bf5-c96d-4fbb-9638-efc971d3f5d1" />
-) | ![Responsive Design](<img width="1440" height="900" alt="Screenshot 2025-08-29 at 2 26 09 AM" src="https://github.com/user-attachments/assets/13f6ce69-376e-484f-b6e9-c327a244e737" 
-                            />
-/>
-) |
+### 🏠 Home Page
+![Home Page](<img width="1440" height="900" alt="Screenshot 2025-08-29 at 2 26 00 AM" src="https://github.com/user-attachments/assets/1723aa5a-1abe-41a3-9f99-3c209616cb27" />
+)  
+
+### 🌍 Explore Section
+![Explore Section](<img width="1440" height="900" alt="Screenshot 2025-08-29 at 2 26 09 AM" src="https://github.com/user-attachments/assets/1721b305-911e-4d2a-8559-64bb7433260b" />
+)  
+## Emplre More
+![Explore More](<img width="1440" height="900" alt="Screenshot 2025-08-29 at 2 26 17 AM" src="https://github.com/user-attachments/assets/e5607960-b0a8-4f15-93f8-f7ea59249eeb" />)
+
 
 ---
 
